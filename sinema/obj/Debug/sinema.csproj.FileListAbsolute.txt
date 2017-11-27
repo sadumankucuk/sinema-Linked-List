@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\User\Desktop\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\User\Desktop\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\User\Desktop\sinema\sinema\obj\Debug\sinema.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\bin\Debug\sinema.exe.config
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.exe
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\bin\Debug\sinema.exe
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\bin\Debug\sinema.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.Form1.resources
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.Cache
